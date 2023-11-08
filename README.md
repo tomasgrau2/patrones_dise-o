@@ -5,7 +5,7 @@ Repositorio para proyecto sobre patrones de diseño con distintas ramas.
 
 Tomas Grau
 
-Legajo: 61154
+Legajo:  61154
 
 ## Patrones
 
